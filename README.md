@@ -1,1 +1,0 @@
-# randomsay-oyun
